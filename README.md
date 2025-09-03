@@ -10,6 +10,6 @@ It detects body landmarks, calculates the knee angle, and counts squats automati
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/fitness-squat-counter.git
+git clone https://github.com/MandarMahadesh/fitness-squat-counter.git
 cd fitness-squat-counter
 pip install -r requirements.txt
